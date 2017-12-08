@@ -1,0 +1,8 @@
+div {
+  padding-bottom: 10px;
+}
+
+label:before {
+  content: "this text is created by CSS";
+  color: blue;
+}

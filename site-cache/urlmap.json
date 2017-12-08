@@ -1,0 +1,47 @@
+{
+  "big-pic.png": {
+    "hash": "6b8e8a6d7b6be06a26d7182da59198e7",
+    "stub": 26,
+    "ipfs": "QmTCyF2zvxj9cKwc7DRkHX9FCza8u82SjC2MZfAG6ZDfzm"
+  },
+  "favicon.ico": {
+    "hash": "267dcb9e76d9e082866b4a3252e07f4e",
+    "stub": 26,
+    "ipfs": "QmNbWYAfPxC9YGhRfHysiBU3oaxebY6LY2CSFZavrvmQg3"
+  },
+  "frame.html": {
+    "hash": "b122e483d4d503b69bd773ea2205c6be",
+    "stub": 26,
+    "ipfs": "QmZo7NJcszPVWXHxobCx1rbg3LoYdCMW8hECFrjShnctdV"
+  },
+  "index.html": {
+    "hash": "36e6e755070ee05e5f87c5f9e934839d",
+    "stub": 26,
+    "ipfs": "QmQp7oLvpLj4VjsGJkgELTgRftFeYNhBysBBLKwUKytYyj"
+  },
+  "new-page.html": {
+    "hash": "989a56b63c04746065e9e7a5ce8fda0a",
+    "stub": 26,
+    "ipfs": "QmVvpLTpTcN8ZeHsDMoXHcxrawAjhUXinDxYf32NKhysBf"
+  },
+  "test.css": {
+    "hash": "054d7d265e224612f7ed9dd2bd48f1ec",
+    "stub": 26,
+    "ipfs": "Qmb3MF4BegZwynKVG32He1FbAZS9DkVFSm6faVk8cYacv7"
+  },
+  "test.js": {
+    "hash": "8efab4629f5c6e34555f4b8f4880dbc0",
+    "stub": 26,
+    "ipfs": "QmSZVTCodVKZLYJfZA9mBzhTReJP9DSzxx3wU9QuEnn4rU"
+  },
+  "test.mp4": {
+    "hash": "ef2fda50fbc1bc195c2f38da0b52a523",
+    "stub": 26,
+    "ipfs": "QmNuPMRvYobB9LNW3LzUxB6JdseLYvwuQRutnd2fikdzAr"
+  },
+  "test.png": {
+    "hash": "e41ee3b091394cad0451878ae0e57d48",
+    "stub": 26,
+    "ipfs": "QmZbe87U2LRGidN2xtKU6Ebd6rFmMc3hYurTAiCE8RSyUt"
+  }
+}

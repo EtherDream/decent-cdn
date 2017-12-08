@@ -1,0 +1,5 @@
+{
+    "src": "../example-site",
+    "dst": "../.site-cache",
+    "urlmap": "../www/urlmap.json"
+}

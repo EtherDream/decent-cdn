@@ -1,0 +1,15 @@
+{
+  "name": "jscdn-filepack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pack.js",
+  "dependencies": {
+    "mime": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
