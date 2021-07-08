@@ -1,5 +1,11 @@
 网站 CDN 去中心化尝试
 
+# 最新方案
+
+查看：https://github.com/EtherDream/freecdn
+
+----
+
 # 演示
 
 [https://fanhtml5.github.io/](https://fanhtml5.github.io/)
